@@ -15,12 +15,13 @@ Name | Company/Organization | Offending addresses
 Adium | The Adium Team | www.adium.im
 Calendar/CalendarAgent | Apple, Inc. | files.apple.com
 IMTransferAgent | Apple, Inc. | s3-us-west-2-w.amazonaws.com
-nsurlsessiond | Apple, Inc. | blobstore-002.icloud.com, gcs-us-00001.storage.googleapis.com
+Pixelmator (via helpd) | Pixelmator Team | help.pixelmator.com
 SpotlightNetHelper | Apple, Inc. | wu-calculator.apple.com
 TotalFinder | BinaryAge Software | updates.binaryage.com
 com.apple.geod.xpc | Apple, Inc. | gsp1.apple.com
 com.bourgeoisbits.cloak.cloakproxyd | Bourgeois Bits, LLC | redirect.getcloak.com
 fpsaud | Adobe | fpdownload2.macromedia.com
+nsurlsessiond | Apple, Inc. | blobstore-002.icloud.com, gcs-us-00001.storage.googleapis.com
 storedownloadd | Apple, Inc. | \*.phobos.apple.com
 
 ### Websites
@@ -30,6 +31,7 @@ Name | Company/Organization | Offending addresses
 Disqus | Disqus | disqus.com
 L.A. Times | The L.A. Times | www.latimes.com
 New York Times | The New York Times | {a1,s1}.nyt.com, {json8,typeface,graphics8,www}.nytimes.com
+Pixelmator | Pixelmator Team | www.pixelmator.com
 gstatic.com | Google, Inc. | www.gstatic.com
 malwaredomainlist.com | Unknown | [www.]malwaredomainlist.com
 malwaredomains.lehigh.edu | Unknown | malwaredomains.lehigh.edu
