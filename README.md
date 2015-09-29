@@ -15,6 +15,7 @@ Name | Company/Organization | Offending addresses
 Adium | The Adium Team | www.adium.im
 Calendar/CalendarAgent | Apple, Inc. | files.apple.com
 IMTransferAgent | Apple, Inc. | s3-us-west-2-w.amazonaws.com
+nsurlsessiond | Apple, Inc. | blobstore-002.icloud.com, gcs-us-00001.storage.googleapis.com
 SpotlightNetHelper | Apple, Inc. | wu-calculator.apple.com
 TotalFinder | BinaryAge Software | updates.binaryage.com
 com.apple.geod.xpc | Apple, Inc. | gsp1.apple.com
