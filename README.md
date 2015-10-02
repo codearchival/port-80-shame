@@ -13,6 +13,7 @@ This is a list of programs, websites, and email content that behave badly and us
 Name | Company/Organization | Offending addresses
 -----|----------------------|--------------------
 Adium | The Adium Team | www.adium.im
+AirPort Base Station Agent | Apple, Inc. | apsu.apple.com
 Calendar/CalendarAgent | Apple, Inc. | files.apple.com
 IMTransferAgent | Apple, Inc. | s3-us-west-2-w.amazonaws.com
 Pixelmator (via helpd) | Pixelmator Team | help.pixelmator.com
